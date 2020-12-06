@@ -11,7 +11,8 @@
 ## Usage
 
 ```sh
-g++ *.cpp\./a.out
+g++ *.cpp
+./a.out
 ```
 
 ## Author
